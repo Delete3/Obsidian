@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式技術/頂點轉換.md",
+                "file": "geometry升級成buffergeometry/正規-頂點轉換.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,27 @@
             "id": "2df255e84cc00e24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "geometry升級成buffergeometry/秘法-物件代替法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd129f7d2e422a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geometry升級成buffergeometry/THREEjs 最完整的geometry升級buffergeometry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "geometry升級成buffergeometry/正規-頂點轉換.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "geometry升級成buffergeometry/正規-頂點轉換.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "geometry升級成buffergeometry/正規-頂點轉換.md"
+              }
             }
           }
         ]
@@ -151,10 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2df255e84cc00e24",
+  "active": "e46ec1637062369d",
   "lastOpenFiles": [
-    "程式技術/自己創造一個相似的物件.md",
-    "程式技術/頂點轉換.md",
-    "程式技術"
+    "geometry升級成buffergeometry/秘法-物件代替法.md",
+    "geometry升級成buffergeometry/正規-頂點轉換.md",
+    "geometry升級成buffergeometry/THREEjs 最完整的geometry升級buffergeometry.md",
+    "geometry升級成buffergeometry/秘法-複製轉換函式.md",
+    "Untitled",
+    "geometry升級成buffergeometry"
   ]
 }
